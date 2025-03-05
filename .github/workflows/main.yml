@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Jeevan Kumar Sharma - General Physician</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { width: 80%; margin: auto; overflow: hidden; }
+        header { background: #008080; color: white; padding: 20px 0; text-align: center; }
+        section { padding: 20px; background: white; margin: 20px 0; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        footer { text-align: center; padding: 20px; background: #008080; color: white; }
+        .button { display: inline-block; background: #008080; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Jeevan Kumar Sharma</h1>
+        <p>General Physician | Mata Saraswati Devi Hospital, Paprola</p>
+    </header>
+    
+    <div class="container">
+        <section>
+            <h2>About Dr. Jeevan Kumar Sharma</h2>
+            <p>Experienced General Physician providing quality healthcare at Mata Saraswati Devi Hospital, Paprola.</p>
+        </section>
+        
+        <section>
+            <h2>Services Offered</h2>
+            <ul>
+                <li>General Checkups</li>
+                <li>Diabetes Management</li>
+                <li>Physiotherapy</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Contact & Appointments</h2>
+            <p><strong>Clinic Address:</strong> Mata Saraswati Devi Hospital, Paprola</p>
+            <p><strong>Phone:</strong> <a href="tel:+919817978099">+91 98179 78099</a></p>
+            <p><strong>Consultation Hours:</strong> 8 AM - 8 PM</p>
+            <a href="https://wa.me/919817978099" class="button">Book Appointment on WhatsApp</a>
+        </section>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Dr. Jeevan Kumar Sharma | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
